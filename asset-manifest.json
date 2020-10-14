@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/herpedex-support/static/css/main.5f361e03.chunk.css",
+    "main.js": "/herpedex-support/static/js/main.f56fa13a.chunk.js",
+    "main.js.map": "/herpedex-support/static/js/main.f56fa13a.chunk.js.map",
+    "runtime-main.js": "/herpedex-support/static/js/runtime-main.156cb324.js",
+    "runtime-main.js.map": "/herpedex-support/static/js/runtime-main.156cb324.js.map",
+    "static/js/2.03ed583f.chunk.js": "/herpedex-support/static/js/2.03ed583f.chunk.js",
+    "static/js/2.03ed583f.chunk.js.map": "/herpedex-support/static/js/2.03ed583f.chunk.js.map",
+    "index.html": "/herpedex-support/index.html",
+    "precache-manifest.7c9ed45f99f7ea88aab67d161db3b7ca.js": "/herpedex-support/precache-manifest.7c9ed45f99f7ea88aab67d161db3b7ca.js",
+    "service-worker.js": "/herpedex-support/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/herpedex-support/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.03ed583f.chunk.js.LICENSE.txt": "/herpedex-support/static/js/2.03ed583f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.156cb324.js",
+    "static/js/2.03ed583f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f56fa13a.chunk.js"
+  ]
+}
