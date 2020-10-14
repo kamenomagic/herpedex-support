@@ -1,8 +1,8 @@
 {
-  "name": "puzzle-charms-support",
+  "name": "herpedex-support",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kamenomagic.github.io/puzzle-charms-support",
+  "homepage": "http://kamenomagic.github.io/herpedex-support",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
